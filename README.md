@@ -13,15 +13,11 @@ If the optical source has a spectral width much greater than the signal bandwidt
 
 <img width="1482" height="1120" alt="image" src="https://github.com/user-attachments/assets/83f63473-b1b3-4afc-ad17-9e9850041cae" />
 
-
 ---
-
 ### Output Pulse Broadening
 If a Gaussian pulse is input to a linear system with a Gaussian impulse response, the output is also Gaussian with RMS width:
 
 <img width="340" height="102" alt="image" src="https://github.com/user-attachments/assets/c60d35c1-8a0f-4c50-873d-1314ec59a29f" />
-
-
 
 ---
 
@@ -40,7 +36,6 @@ If a Gaussian pulse is input to a linear system with a Gaussian impulse response
 **Required Calculations:**
 <img width="1548" height="298" alt="image" src="https://github.com/user-attachments/assets/b2fb676a-afb0-48ef-914b-309b2ea38a17" />
 
-
 ## Layout
 Place and connect the following components:
 1. **User-defined bit sequence generator** – set to generate a single pulse of the specified width  
@@ -49,22 +44,22 @@ Place and connect the following components:
 4. **Optical spectrum analyzers** and **optical time domain visualizers** at input and output of fiber  
 
 ---
-
 ## Simulation
 - Set the parameters and run the simulation.  
 - Use the visualizer displays to measure:  
   - FWHM width of input and output pulses  
   - FWHM width of optical spectra  
-
 ---
 
 ## Analysis
 Compare the simulation results with the theoretical calculations and discuss any observed differences.
 
-
 ---
  Results to Record
 <img width="1448" height="1015" alt="Screenshot 2026-02-05 113211" src="https://github.com/user-attachments/assets/5a7b450e-e6d6-4efc-8c33-791775fdfa8c" />
 
-
+<img width="912" height="1600" alt="WhatsApp Image 2026-05-21 at 9 50 38 PM" src="https://github.com/user-attachments/assets/aeca397e-f7d7-4dbd-aab7-88e0f9e856a1" />
+<img width="1918" height="1187" alt="Screenshot 2026-04-29 092153" src="https://github.com/user-attachments/assets/80227d4f-0d8d-4809-844c-ea48b7a342ef" />
+ Result:
+ Hence,the results predicted by the linear system model of an optical fiber with the results of simulation
 
